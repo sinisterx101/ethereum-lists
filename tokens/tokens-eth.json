@@ -12092,7 +12092,38 @@
   "twitter"   : "https://twitter.com/TheWorldNewsNet",
   "youtube"   : ""
 }
-},{
+},{{
+"symbol"      : "UBE",
+"address"     : "0x9544b6a2f02e7be2ae53734e64811475d053d5ae",
+"decimals"    : "18",
+"name"        : "ubecoin",
+"ens_address" : "",
+"website"     : "https://www.ubecoin.com/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "shane@ubecoin.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
 "symbol"      : "UKG",
 "address"     : "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
 "decimals"    : "18",
